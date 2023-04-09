@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "701534820221",
+    "project_id": "bcrplendinglibrary",
+    "storage_bucket": "bcrplendinglibrary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701534820221:android:98ef8a60903495bb719e14",
+        "android_client_info": {
+          "package_name": "com.mycompany.bcrplendinglibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701534820221-2172abl74cleg42l7n0tcs8694gsiej7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.bcrplendinglibrary",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "701534820221-eqbdepa3vpi0ovdt6n5nbi1h49i77avh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQKt429nlbaxee3TKVYzWI5wbXCBt4WMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701534820221-eqbdepa3vpi0ovdt6n5nbi1h49i77avh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "701534820221-h8boihgtfsroier5m74vn0nc9b0d17ta.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.bcrplendinglibrary"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
